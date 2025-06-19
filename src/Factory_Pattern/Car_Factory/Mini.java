@@ -1,4 +1,4 @@
-package Car_Factory;
+package Factory_Pattern.Car_Factory;
 
 public class Mini implements Car {
     @Override

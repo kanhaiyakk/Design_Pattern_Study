@@ -1,4 +1,4 @@
-package Car_Factory;
+package Factory_Pattern.Car_Factory;
 
 public class TestCar {
     public static void main(String[] args) {

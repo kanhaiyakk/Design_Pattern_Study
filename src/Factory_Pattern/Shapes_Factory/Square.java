@@ -1,4 +1,4 @@
-package Draw_Shapes;
+package Factory_Pattern.Shapes_Factory;
 
 public class Square implements Shape{
     @Override
